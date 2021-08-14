@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\bin\Debug\netcoreapp3.1\wage problems.exe
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\bin\Debug\netcoreapp3.1\wage problems.deps.json
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\bin\Debug\netcoreapp3.1\wage problems.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\bin\Debug\netcoreapp3.1\wage problems.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\bin\Debug\netcoreapp3.1\wage problems.dll
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\bin\Debug\netcoreapp3.1\wage problems.pdb
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\obj\Debug\netcoreapp3.1\wage problems.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\obj\Debug\netcoreapp3.1\wage problems.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\obj\Debug\netcoreapp3.1\wage problems.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\obj\Debug\netcoreapp3.1\wage problems.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\obj\Debug\netcoreapp3.1\wage problems.dll
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\obj\Debug\netcoreapp3.1\wage problems.pdb
+C:\Users\prakash kandula\source\repos\wage problems\wage problems\obj\Debug\netcoreapp3.1\wage problems.genruntimeconfig.cache
